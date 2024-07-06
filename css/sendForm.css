@@ -1,0 +1,20 @@
+.send{
+    margin: 15% 35% 1.5rem;
+    text-align: center;
+    position: relative;
+    display: flex;
+    padding: 5%;
+    border: 2px solid #0f0f00;
+    border-radius: 22px;
+    background-color: #efefef;
+    color: #0f0f00;
+}
+
+.btnDiv{
+    text-align: left;
+    position: relative;
+    flex-direction: column;
+    margin: 0 0 2.5rem 52.5rem;
+    width: 20%;
+    cursor: pointer;
+}

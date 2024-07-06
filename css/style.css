@@ -83,6 +83,7 @@ form{
     position: relative;
     flex-direction: column;
     margin: 0;
+    cursor: pointer;
 }
 .textarea{
     display: flex;
